@@ -1,0 +1,13 @@
+streamlit
+joblib
+textblob
+wordcloud
+matplotlib
+seaborn
+scikit-learn
+nltk
+pandas
+requests
+beautifulsoup4
+imbalanced-learn
+numpy
